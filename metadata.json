@@ -1,0 +1,6 @@
+{
+  "name": "QuickUtility - Free Fast Online PDF, Image & Daily Utilities",
+  "description": "All-in-one private, fast online utility platform with 15 essential tools: PDF merge, split, compress, Word and PDF conversions, image compressor and resizer, passport photo maker, age and percentage calculators, QR code generator, and resume builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
